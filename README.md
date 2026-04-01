@@ -12,4 +12,3 @@ Condicionais
 Tratamento de erros
 
 ---
-git add README.md
