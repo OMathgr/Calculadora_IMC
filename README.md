@@ -12,12 +12,4 @@ Condicionais
 Tratamento de erros
 
 ---
-
-## 🔹 3. Salvar o arquivo
-
----
-
-## 🔹 4. Marcar como resolvido
-
-```bash
 git add README.md
