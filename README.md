@@ -6,9 +6,9 @@ Projeto simples em Python para calcular o Índice de Massa Corporal (IMC).
 ```bash
 python IMC.py
 ```
-🧠 Conceitos usados
-Funções
-Condicionais
-Tratamento de erros
+🧠 Conceitos usados:
+ Funções,
+ Condicionais,
+ Tratamento de erros
 
 ---
